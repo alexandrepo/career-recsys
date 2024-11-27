@@ -5,6 +5,8 @@
 
 Este estudo investiga métodos eficientes para recomendar trajetórias de carreira com base na análise de currículos. Utilizando um conjunto de dados de pesquisas anteriores, que inclui históricos profissionais anotados com as respectivas URIs da ontologia ESCO, o objetivo é prever o próximo cargo na trajetória profissional de um indivíduo. A baseline utilizada como referência foi o "reversed history" para comparar com outras técnicas de recomendação, incluindo SKNN, S-SKNN, SF-SKNN, LSTM e abordagens híbridas que combinam habilidades profissionais e experiência de trabalho.
 
+Utiliza como referência os dataset e métricas do trabalho [4](https://www.scopus.com/record/display.uri?eid=2-s2.0-85174860612&origin=inward&txGid=9a4d9536d191a3f9c6a2e394b4470e6e)
+
 ## Dataset
 O dataset deste trabalho pode ser encontrado em:
 https://huggingface.co/datasets/jensjorisdecorte/anonymous-working-histories
